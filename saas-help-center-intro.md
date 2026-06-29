@@ -30,4 +30,6 @@ This documentation sample demonstrates how I structure SaaS help center content 
 
 ## Tools and Workflow
 
-This sample was adapted into Markdown to practice GitHub-style documentation workflows, including structured headings, bullet lists, metadata-style sections, and version-friendly formatting.
+This sample demonstrates Markdown formatting and GitHub-style documentation workflows, including structured headings, reusable formatting, version-friendly documentation, and clear content organization.
+
+It reflects my continued practice with documentation-as-code concepts and modern technical documentation workflows.
